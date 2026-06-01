@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer with experience building web applications, SaaS platforms, AI solutions, blockchain applications, and cloud-based systems.
 
-I enjoy solving complex problems and creating scalable products using modern technologies across frontend, backend, cloud, and Web3 ecosystems.
+I enjoy solving complex problems and creating scalable products using modern technologies across frontend, backend, cloud, and AI ecosystems.
 
 ---
 
