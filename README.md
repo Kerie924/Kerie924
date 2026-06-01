@@ -1,4 +1,4 @@
-# Hi there, I'm Lin Yifan 👋
+# Hi there 👋
 
 ## 🚀 Full Stack Developer
 
